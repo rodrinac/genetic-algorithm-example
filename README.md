@@ -5,7 +5,7 @@ Example of a Genetic Algorithm written in Kotlin.
 ## Getting Started
 
 This Kotlin project is an adaptation of
-(this Java example)[http://www.theprojectspot.com/tutorial-post/creating-a-genetic-algorithm-for-beginners/3].
+[this Java example](http://www.theprojectspot.com/tutorial-post/creating-a-genetic-algorithm-for-beginners/3).
 
 ### Prerequisites
 
